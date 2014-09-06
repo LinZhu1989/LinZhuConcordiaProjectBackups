@@ -1,0 +1,11 @@
+
+Tools Needed: Any PHP Editor (NuSphere recommended), any open source web-server (WAMP Web-Server recommended).
+
+1.	Install NuSphere.
+2.	Install WAMP & Configure it.
+3.	Create a folder POTUM in C:\WAMP\WWW
+4.	Copy the Source code files in C:\WAMP\WWW\POTUM.
+5.	Open browser.
+6.	Enter the http://localhost/POTUM.php
+7.	Provide the value of Radius.
+8.	The Result will be displayed when SUBMIT button is clicked.

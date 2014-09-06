@@ -1,0 +1,19 @@
+######################
+Student Name:	Yulong Song	Student ID:     	6516599
+Student Name:	Lin Zhu		Student ID:     	6555659
+
+######################
+
+It is COMP 472/672: Artificial Intelligence Project Deliverable III
+
+
+#########################################################################
+############################ How to play it ##############################
+#########################################################################
+
+1. Click File and Import
+2. Select Existing Projects into Workspace
+3. Select the folder "AI_Tournament" as the root directory
+4. Run the GameOfGotcha as a java application;
+4. Choose your favourate game mode and play.
+
